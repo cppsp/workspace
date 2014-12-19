@@ -1,5 +1,16 @@
 workspace
 =========
+
+This is a special branch of cpoll_cppspx, a fork cpoll_cppsp
+
+cpoll_cppspx seeks to be compatible with C++ and includes modules with latest modern system.
+
+Welcome all those who are interested in this version / branch to contribute and share information.
+
+Thanks!
+
+
+
 note: if you're looking for cppsp, it's downloadable as a source tarball from https://sourceforge.net/projects/cpollcppsp/files/
 
 all the code i've ever written since grade 11; also includes some forward-ported code from grades 8 and 9.
